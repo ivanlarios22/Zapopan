@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dcol8vke65o28"
+path="res://.godot/imported/roofGable.obj-7fe79fce9bdf00baff43269cb054f551.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roofGable.obj-7fe79fce9bdf00baff43269cb054f551.mesh"]
+
+source_file="res://Packages/City/kenney_fantasy-town-kit/Models/OBJ format/roofGable.obj"
+dest_files=["res://.godot/imported/roofGable.obj-7fe79fce9bdf00baff43269cb054f551.mesh", "res://.godot/imported/roofGable.obj-7fe79fce9bdf00baff43269cb054f551.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

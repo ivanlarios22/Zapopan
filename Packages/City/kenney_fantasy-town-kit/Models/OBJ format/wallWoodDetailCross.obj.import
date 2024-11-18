@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ciijqwd2nyh7w"
+path="res://.godot/imported/wallWoodDetailCross.obj-74de84927614c621114f9f8aa847bd3d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wallWoodDetailCross.obj-74de84927614c621114f9f8aa847bd3d.mesh"]
+
+source_file="res://Packages/City/kenney_fantasy-town-kit/Models/OBJ format/wallWoodDetailCross.obj"
+dest_files=["res://.godot/imported/wallWoodDetailCross.obj-74de84927614c621114f9f8aa847bd3d.mesh", "res://.godot/imported/wallWoodDetailCross.obj-74de84927614c621114f9f8aa847bd3d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

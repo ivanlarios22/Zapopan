@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dv4x7g8esitkr"
+path="res://.godot/imported/stallRed.obj-21a518cd0c6e1e1e926c531b7e900848.mesh"
+
+[deps]
+
+files=["res://.godot/imported/stallRed.obj-21a518cd0c6e1e1e926c531b7e900848.mesh"]
+
+source_file="res://Packages/City/kenney_fantasy-town-kit/Models/OBJ format/stallRed.obj"
+dest_files=["res://.godot/imported/stallRed.obj-21a518cd0c6e1e1e926c531b7e900848.mesh", "res://.godot/imported/stallRed.obj-21a518cd0c6e1e1e926c531b7e900848.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

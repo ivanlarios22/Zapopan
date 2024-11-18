@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cfqsfsh1tw74p"
+path="res://.godot/imported/roofRight.obj-0ed8dd5e0e7449916f2e21caf6e2cb76.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roofRight.obj-0ed8dd5e0e7449916f2e21caf6e2cb76.mesh"]
+
+source_file="res://Packages/City/kenney_fantasy-town-kit/Models/OBJ format/roofRight.obj"
+dest_files=["res://.godot/imported/roofRight.obj-0ed8dd5e0e7449916f2e21caf6e2cb76.mesh", "res://.godot/imported/roofRight.obj-0ed8dd5e0e7449916f2e21caf6e2cb76.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

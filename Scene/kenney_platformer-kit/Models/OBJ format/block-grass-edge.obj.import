@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://tvv87jvduexj"
+path="res://.godot/imported/block-grass-edge.obj-2f32aaa387daca0e3ea3dc69ddcd6920.mesh"
+
+[deps]
+
+files=["res://.godot/imported/block-grass-edge.obj-2f32aaa387daca0e3ea3dc69ddcd6920.mesh"]
+
+source_file="res://Scene/kenney_platformer-kit/Models/OBJ format/block-grass-edge.obj"
+dest_files=["res://.godot/imported/block-grass-edge.obj-2f32aaa387daca0e3ea3dc69ddcd6920.mesh", "res://.godot/imported/block-grass-edge.obj-2f32aaa387daca0e3ea3dc69ddcd6920.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

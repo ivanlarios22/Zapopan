@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://7e2e4q4b8208"
+path="res://.godot/imported/cabinWallHalf.obj-28aad8ccd7cfbf7927fef85fd3f59910.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cabinWallHalf.obj-28aad8ccd7cfbf7927fef85fd3f59910.mesh"]
+
+source_file="res://Packages/Holiday/kenney_holiday-kit/Models/OBJ format/cabinWallHalf.obj"
+dest_files=["res://.godot/imported/cabinWallHalf.obj-28aad8ccd7cfbf7927fef85fd3f59910.mesh", "res://.godot/imported/cabinWallHalf.obj-28aad8ccd7cfbf7927fef85fd3f59910.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

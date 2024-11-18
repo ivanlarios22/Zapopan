@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c34w81u7av54p"
+path="res://.godot/imported/roadCurb.obj-e5e7b620af0fa09a8e5aac0c1eb24655.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roadCurb.obj-e5e7b620af0fa09a8e5aac0c1eb24655.mesh"]
+
+source_file="res://Packages/City/kenney_fantasy-town-kit/Models/OBJ format/roadCurb.obj"
+dest_files=["res://.godot/imported/roadCurb.obj-e5e7b620af0fa09a8e5aac0c1eb24655.mesh", "res://.godot/imported/roadCurb.obj-e5e7b620af0fa09a8e5aac0c1eb24655.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

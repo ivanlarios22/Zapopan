@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ch1p3lonvyows"
+path="res://.godot/imported/wallWoodHalf.obj-0ada6963d9b8d39f73d7e855a15fda31.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wallWoodHalf.obj-0ada6963d9b8d39f73d7e855a15fda31.mesh"]
+
+source_file="res://Packages/City/kenney_fantasy-town-kit/Models/OBJ format/wallWoodHalf.obj"
+dest_files=["res://.godot/imported/wallWoodHalf.obj-0ada6963d9b8d39f73d7e855a15fda31.mesh", "res://.godot/imported/wallWoodHalf.obj-0ada6963d9b8d39f73d7e855a15fda31.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

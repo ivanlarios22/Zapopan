@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dndikfpb7m6mm"
+path="res://.godot/imported/lantern.obj-7814cc3610381b57a6b6a3793cdfd428.mesh"
+
+[deps]
+
+files=["res://.godot/imported/lantern.obj-7814cc3610381b57a6b6a3793cdfd428.mesh"]
+
+source_file="res://Packages/City/kenney_fantasy-town-kit/Models/OBJ format/lantern.obj"
+dest_files=["res://.godot/imported/lantern.obj-7814cc3610381b57a6b6a3793cdfd428.mesh", "res://.godot/imported/lantern.obj-7814cc3610381b57a6b6a3793cdfd428.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

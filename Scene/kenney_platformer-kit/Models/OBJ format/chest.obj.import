@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dtc2ndoh8rlou"
+path="res://.godot/imported/chest.obj-40020a9cf00ddebe21eeb5df42964176.mesh"
+
+[deps]
+
+files=["res://.godot/imported/chest.obj-40020a9cf00ddebe21eeb5df42964176.mesh"]
+
+source_file="res://Scene/kenney_platformer-kit/Models/OBJ format/chest.obj"
+dest_files=["res://.godot/imported/chest.obj-40020a9cf00ddebe21eeb5df42964176.mesh", "res://.godot/imported/chest.obj-40020a9cf00ddebe21eeb5df42964176.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

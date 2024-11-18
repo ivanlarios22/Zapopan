@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cq5r7bs41kniw"
+path="res://.godot/imported/rockWide.obj-9a38054a0cb2cf37ea871489d94b767a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/rockWide.obj-9a38054a0cb2cf37ea871489d94b767a.mesh"]
+
+source_file="res://Packages/City/kenney_fantasy-town-kit/Models/OBJ format/rockWide.obj"
+dest_files=["res://.godot/imported/rockWide.obj-9a38054a0cb2cf37ea871489d94b767a.mesh", "res://.godot/imported/rockWide.obj-9a38054a0cb2cf37ea871489d94b767a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bvf538j8bt43v"
+path="res://.godot/imported/fenceCurved.obj-698f00d7ef75c48847778673d20dd677.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fenceCurved.obj-698f00d7ef75c48847778673d20dd677.mesh"]
+
+source_file="res://Packages/City/kenney_fantasy-town-kit/Models/OBJ format/fenceCurved.obj"
+dest_files=["res://.godot/imported/fenceCurved.obj-698f00d7ef75c48847778673d20dd677.mesh", "res://.godot/imported/fenceCurved.obj-698f00d7ef75c48847778673d20dd677.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

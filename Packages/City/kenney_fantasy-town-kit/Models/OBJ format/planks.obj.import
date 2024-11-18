@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cf0kc0fk8xi4v"
+path="res://.godot/imported/planks.obj-972969dc15cba3dd32f02b5ce800f231.mesh"
+
+[deps]
+
+files=["res://.godot/imported/planks.obj-972969dc15cba3dd32f02b5ce800f231.mesh"]
+
+source_file="res://Packages/City/kenney_fantasy-town-kit/Models/OBJ format/planks.obj"
+dest_files=["res://.godot/imported/planks.obj-972969dc15cba3dd32f02b5ce800f231.mesh", "res://.godot/imported/planks.obj-972969dc15cba3dd32f02b5ce800f231.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

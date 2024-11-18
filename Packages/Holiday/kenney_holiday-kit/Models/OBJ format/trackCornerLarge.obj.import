@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bhu3oxh61di6m"
+path="res://.godot/imported/trackCornerLarge.obj-757b5b635992ce21e57b60be781241e5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/trackCornerLarge.obj-757b5b635992ce21e57b60be781241e5.mesh"]
+
+source_file="res://Packages/Holiday/kenney_holiday-kit/Models/OBJ format/trackCornerLarge.obj"
+dest_files=["res://.godot/imported/trackCornerLarge.obj-757b5b635992ce21e57b60be781241e5.mesh", "res://.godot/imported/trackCornerLarge.obj-757b5b635992ce21e57b60be781241e5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

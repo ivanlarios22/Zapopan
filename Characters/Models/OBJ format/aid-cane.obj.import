@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://6t0f36ai0qvb"
+path="res://.godot/imported/aid-cane.obj-393103bcd3a86d53cdca59a9910cfc6f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/aid-cane.obj-393103bcd3a86d53cdca59a9910cfc6f.mesh"]
+
+source_file="res://Characters/Models/OBJ format/aid-cane.obj"
+dest_files=["res://.godot/imported/aid-cane.obj-393103bcd3a86d53cdca59a9910cfc6f.mesh", "res://.godot/imported/aid-cane.obj-393103bcd3a86d53cdca59a9910cfc6f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

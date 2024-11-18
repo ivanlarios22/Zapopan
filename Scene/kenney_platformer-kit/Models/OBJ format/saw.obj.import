@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://br6kku67pmvgm"
+path="res://.godot/imported/saw.obj-f366f0bf7b358f634ca195f18e84f1be.mesh"
+
+[deps]
+
+files=["res://.godot/imported/saw.obj-f366f0bf7b358f634ca195f18e84f1be.mesh"]
+
+source_file="res://Scene/kenney_platformer-kit/Models/OBJ format/saw.obj"
+dest_files=["res://.godot/imported/saw.obj-f366f0bf7b358f634ca195f18e84f1be.mesh", "res://.godot/imported/saw.obj-f366f0bf7b358f634ca195f18e84f1be.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

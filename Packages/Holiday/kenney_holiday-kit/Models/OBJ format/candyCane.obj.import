@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dmud34w7vsdu2"
+path="res://.godot/imported/candyCane.obj-7dbac085f72cccd2392da3fd620052bb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/candyCane.obj-7dbac085f72cccd2392da3fd620052bb.mesh"]
+
+source_file="res://Packages/Holiday/kenney_holiday-kit/Models/OBJ format/candyCane.obj"
+dest_files=["res://.godot/imported/candyCane.obj-7dbac085f72cccd2392da3fd620052bb.mesh", "res://.godot/imported/candyCane.obj-7dbac085f72cccd2392da3fd620052bb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

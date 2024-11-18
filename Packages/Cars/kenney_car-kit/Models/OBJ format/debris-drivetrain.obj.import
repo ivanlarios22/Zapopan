@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://586ng7p2o13y"
+path="res://.godot/imported/debris-drivetrain.obj-d06e14cd2e83d19e53bdfded3fd48ce4.mesh"
+
+[deps]
+
+files=["res://.godot/imported/debris-drivetrain.obj-d06e14cd2e83d19e53bdfded3fd48ce4.mesh"]
+
+source_file="res://Packages/Cars/kenney_car-kit/Models/OBJ format/debris-drivetrain.obj"
+dest_files=["res://.godot/imported/debris-drivetrain.obj-d06e14cd2e83d19e53bdfded3fd48ce4.mesh", "res://.godot/imported/debris-drivetrain.obj-d06e14cd2e83d19e53bdfded3fd48ce4.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

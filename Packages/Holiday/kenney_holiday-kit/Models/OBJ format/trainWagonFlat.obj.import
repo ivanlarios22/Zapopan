@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://01x5pa4cfhvq"
+path="res://.godot/imported/trainWagonFlat.obj-0c59a1fbb43937884f1bb9ca689e9a18.mesh"
+
+[deps]
+
+files=["res://.godot/imported/trainWagonFlat.obj-0c59a1fbb43937884f1bb9ca689e9a18.mesh"]
+
+source_file="res://Packages/Holiday/kenney_holiday-kit/Models/OBJ format/trainWagonFlat.obj"
+dest_files=["res://.godot/imported/trainWagonFlat.obj-0c59a1fbb43937884f1bb9ca689e9a18.mesh", "res://.godot/imported/trainWagonFlat.obj-0c59a1fbb43937884f1bb9ca689e9a18.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

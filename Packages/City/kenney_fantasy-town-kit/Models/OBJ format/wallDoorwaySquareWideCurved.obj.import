@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d2ahhsbnodaho"
+path="res://.godot/imported/wallDoorwaySquareWideCurved.obj-0654a306838e4be7eb2ad1fa228efca1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wallDoorwaySquareWideCurved.obj-0654a306838e4be7eb2ad1fa228efca1.mesh"]
+
+source_file="res://Packages/City/kenney_fantasy-town-kit/Models/OBJ format/wallDoorwaySquareWideCurved.obj"
+dest_files=["res://.godot/imported/wallDoorwaySquareWideCurved.obj-0654a306838e4be7eb2ad1fa228efca1.mesh", "res://.godot/imported/wallDoorwaySquareWideCurved.obj-0654a306838e4be7eb2ad1fa228efca1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

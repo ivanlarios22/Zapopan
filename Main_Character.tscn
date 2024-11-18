@@ -1,0 +1,21 @@
+[gd_scene load_steps=3 format=3 uid="uid://gf6n3782yh1s"]
+
+[ext_resource type="ArrayMesh" uid="uid://vy0jajrkseuk" path="res://Characters/Models/OBJ format/character-male-f.obj" id="1_g6ct8"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_her0b"]
+radius = 0.266519
+height = 0.740191
+
+[node name="Principal" type="CharacterBody3D"]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.336745, 0)
+shape = SubResource("CapsuleShape3D_her0b")
+
+[node name="Character-male-f" type="MeshInstance3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.00212276, 0, 0.00782126)
+mesh = ExtResource("1_g6ct8")
+
+[node name="Camera3D" type="Camera3D" parent="."]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 0.487265, 0)
+fov = 45.6656

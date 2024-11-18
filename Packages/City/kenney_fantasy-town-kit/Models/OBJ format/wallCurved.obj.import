@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ddc0s7djk3rhw"
+path="res://.godot/imported/wallCurved.obj-85d94d367716e90d27fe462e3b736d07.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wallCurved.obj-85d94d367716e90d27fe462e3b736d07.mesh"]
+
+source_file="res://Packages/City/kenney_fantasy-town-kit/Models/OBJ format/wallCurved.obj"
+dest_files=["res://.godot/imported/wallCurved.obj-85d94d367716e90d27fe462e3b736d07.mesh", "res://.godot/imported/wallCurved.obj-85d94d367716e90d27fe462e3b736d07.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

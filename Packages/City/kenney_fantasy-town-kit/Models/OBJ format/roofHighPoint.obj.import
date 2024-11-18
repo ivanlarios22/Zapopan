@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cs57225aj6psj"
+path="res://.godot/imported/roofHighPoint.obj-d4543716b2cdfa33f1394b1b59d0e621.mesh"
+
+[deps]
+
+files=["res://.godot/imported/roofHighPoint.obj-d4543716b2cdfa33f1394b1b59d0e621.mesh"]
+
+source_file="res://Packages/City/kenney_fantasy-town-kit/Models/OBJ format/roofHighPoint.obj"
+dest_files=["res://.godot/imported/roofHighPoint.obj-d4543716b2cdfa33f1394b1b59d0e621.mesh", "res://.godot/imported/roofHighPoint.obj-d4543716b2cdfa33f1394b1b59d0e621.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

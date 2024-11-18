@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dy1sre5agldln"
+path="res://.godot/imported/overhang.obj-1208519d954949f1e6aa8b42313632c8.mesh"
+
+[deps]
+
+files=["res://.godot/imported/overhang.obj-1208519d954949f1e6aa8b42313632c8.mesh"]
+
+source_file="res://Packages/City/kenney_fantasy-town-kit/Models/OBJ format/overhang.obj"
+dest_files=["res://.godot/imported/overhang.obj-1208519d954949f1e6aa8b42313632c8.mesh", "res://.godot/imported/overhang.obj-1208519d954949f1e6aa8b42313632c8.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

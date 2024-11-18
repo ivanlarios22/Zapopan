@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dhhwqntsl8bif"
+path="res://.godot/imported/blade.obj-ce68800a0ef5322472844f99d3f60bd1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/blade.obj-ce68800a0ef5322472844f99d3f60bd1.mesh"]
+
+source_file="res://Packages/City/kenney_fantasy-town-kit/Models/OBJ format/blade.obj"
+dest_files=["res://.godot/imported/blade.obj-ce68800a0ef5322472844f99d3f60bd1.mesh", "res://.godot/imported/blade.obj-ce68800a0ef5322472844f99d3f60bd1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

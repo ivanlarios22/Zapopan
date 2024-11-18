@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://3pgn0lf8p7v7"
+path="res://.godot/imported/wallWoodCorner.obj-e6d23170bb497488ab56243a69fae365.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wallWoodCorner.obj-e6d23170bb497488ab56243a69fae365.mesh"]
+
+source_file="res://Packages/City/kenney_fantasy-town-kit/Models/OBJ format/wallWoodCorner.obj"
+dest_files=["res://.godot/imported/wallWoodCorner.obj-e6d23170bb497488ab56243a69fae365.mesh", "res://.godot/imported/wallWoodCorner.obj-e6d23170bb497488ab56243a69fae365.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

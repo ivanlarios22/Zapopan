@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dsem56233coqw"
+path="res://.godot/imported/cabinSideCenter.obj-98f35ce81313c071d9c5d4de9246b8bb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/cabinSideCenter.obj-98f35ce81313c071d9c5d4de9246b8bb.mesh"]
+
+source_file="res://Packages/Holiday/kenney_holiday-kit/Models/OBJ format/cabinSideCenter.obj"
+dest_files=["res://.godot/imported/cabinSideCenter.obj-98f35ce81313c071d9c5d4de9246b8bb.mesh", "res://.godot/imported/cabinSideCenter.obj-98f35ce81313c071d9c5d4de9246b8bb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

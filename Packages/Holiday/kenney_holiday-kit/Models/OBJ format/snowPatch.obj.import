@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ddk7xepc1v8do"
+path="res://.godot/imported/snowPatch.obj-d59e2b18b53c7715ecf943261e32f1e3.mesh"
+
+[deps]
+
+files=["res://.godot/imported/snowPatch.obj-d59e2b18b53c7715ecf943261e32f1e3.mesh"]
+
+source_file="res://Packages/Holiday/kenney_holiday-kit/Models/OBJ format/snowPatch.obj"
+dest_files=["res://.godot/imported/snowPatch.obj-d59e2b18b53c7715ecf943261e32f1e3.mesh", "res://.godot/imported/snowPatch.obj-d59e2b18b53c7715ecf943261e32f1e3.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

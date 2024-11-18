@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b03lyt2yplhui"
+path="res://.godot/imported/presentRound.obj-1b1855720362ab0b5edc37b1938bba07.mesh"
+
+[deps]
+
+files=["res://.godot/imported/presentRound.obj-1b1855720362ab0b5edc37b1938bba07.mesh"]
+
+source_file="res://Packages/Holiday/kenney_holiday-kit/Models/OBJ format/presentRound.obj"
+dest_files=["res://.godot/imported/presentRound.obj-1b1855720362ab0b5edc37b1938bba07.mesh", "res://.godot/imported/presentRound.obj-1b1855720362ab0b5edc37b1938bba07.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

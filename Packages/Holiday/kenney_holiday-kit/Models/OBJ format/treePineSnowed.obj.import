@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cf57xicspjnln"
+path="res://.godot/imported/treePineSnowed.obj-d91a08966bee9f864ec0d397161e2ad4.mesh"
+
+[deps]
+
+files=["res://.godot/imported/treePineSnowed.obj-d91a08966bee9f864ec0d397161e2ad4.mesh"]
+
+source_file="res://Packages/Holiday/kenney_holiday-kit/Models/OBJ format/treePineSnowed.obj"
+dest_files=["res://.godot/imported/treePineSnowed.obj-d91a08966bee9f864ec0d397161e2ad4.mesh", "res://.godot/imported/treePineSnowed.obj-d91a08966bee9f864ec0d397161e2ad4.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
