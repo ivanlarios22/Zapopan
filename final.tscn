@@ -1,0 +1,41 @@
+[gd_scene load_steps=4 format=3 uid="uid://b6v01bkdl22w6"]
+
+[ext_resource type="Texture2D" uid="uid://clca3o6oa1opq" path="res://img/final.jpg" id="1_56hbq"]
+[ext_resource type="AudioStream" uid="uid://b46rvhdg38eyv" path="res://music/fondo-intro.mp3" id="2_ttnrn"]
+
+[sub_resource type="SystemFont" id="SystemFont_hith8"]
+font_names = PackedStringArray("Bookman Old Style")
+font_weight = 600
+
+[node name="Node2D" type="Node2D"]
+
+[node name="TextureRect" type="TextureRect" parent="."]
+offset_right = 1154.0
+offset_bottom = 650.0
+texture = ExtResource("1_56hbq")
+expand_mode = 1
+
+[node name="Label" type="Label" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = 61.0
+offset_top = 235.0
+offset_right = 1089.0
+offset_bottom = 404.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(1, 0.337255, 0.423529, 1)
+theme_override_colors/font_shadow_color = Color(1, 1, 1, 1)
+theme_override_fonts/font = SubResource("SystemFont_hith8")
+theme_override_font_sizes/font_size = 70
+text = "Enhorabuena has terminado
+¡Gracias por jugar!"
+horizontal_alignment = 1
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("2_ttnrn")
+volume_db = -15.38
+autoplay = true
