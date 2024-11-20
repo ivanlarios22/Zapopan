@@ -1,0 +1,112 @@
+[gd_scene load_steps=9 format=3 uid="uid://b5jithepmq2g6"]
+
+[ext_resource type="Script" path="res://menu.gd" id="1_3bq2k"]
+[ext_resource type="Texture2D" uid="uid://dkex4pv228esp" path="res://img/fondo-basilica.png" id="1_jdhyb"]
+[ext_resource type="AudioStream" uid="uid://b46rvhdg38eyv" path="res://music/fondo-intro.mp3" id="3_s5ev4"]
+
+[sub_resource type="SystemFont" id="SystemFont_qappy"]
+font_names = PackedStringArray("Bookman Old Style")
+font_weight = 550
+
+[sub_resource type="SystemFont" id="SystemFont_p0lw0"]
+font_names = PackedStringArray("Bookman Old Style")
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_6rh8e"]
+bg_color = Color(0, 0, 0, 1)
+
+[sub_resource type="SystemFont" id="SystemFont_wc8he"]
+font_names = PackedStringArray("Bookman Old Style")
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_gwbc5"]
+bg_color = Color(0, 0, 0, 1)
+
+[node name="Menu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_3bq2k")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("1_jdhyb")
+expand_mode = 1
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 5
+anchor_left = 0.5
+anchor_right = 0.5
+offset_left = -174.5
+offset_top = 93.0
+offset_right = 174.5
+offset_bottom = 176.0
+grow_horizontal = 2
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_fonts/font = SubResource("SystemFont_qappy")
+theme_override_font_sizes/font_size = 60
+text = "Bienvenido"
+
+[node name="Label2" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 3
+anchor_left = 1.0
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -245.0
+offset_top = -164.0
+grow_horizontal = 0
+grow_vertical = 0
+theme_override_colors/font_color = Color(1, 1, 1, 1)
+theme_override_fonts/font = SubResource("SystemFont_qappy")
+theme_override_font_sizes/font_size = 30
+text = "Créditos:
+Pablo Andrade
+Daniela Curiel
+Amy Soto"
+horizontal_alignment = 1
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -138.0
+offset_top = -31.5
+offset_right = 138.0
+offset_bottom = 121.5
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 50
+
+[node name="Jugar" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = SubResource("SystemFont_p0lw0")
+theme_override_font_sizes/font_size = 40
+theme_override_styles/normal = SubResource("StyleBoxFlat_6rh8e")
+text = "Jugar"
+
+[node name="Salir" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_fonts/font = SubResource("SystemFont_wc8he")
+theme_override_font_sizes/font_size = 40
+theme_override_styles/normal = SubResource("StyleBoxFlat_gwbc5")
+text = "Salir"
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("3_s5ev4")
+volume_db = -15.38
+autoplay = true
+
+[connection signal="pressed" from="VBoxContainer/Jugar" to="." method="_on_jugar_pressed"]
+[connection signal="pressed" from="VBoxContainer/Salir" to="." method="_on_salir_pressed"]
