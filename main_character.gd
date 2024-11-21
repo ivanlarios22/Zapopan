@@ -14,7 +14,6 @@ var jumpForce = 10.0
 var gravity = 15.0
 
 @onready var camera = $Pivote
-@onready var attackCast = $AttackRayCast
 
 func _ready():
 	pass
