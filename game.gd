@@ -13,14 +13,14 @@ func _process(delta: float) -> void:
 	# Incrementar el contador de frames
 	frame_count += 1
 	
-	# Actualizar el puntaje cada 50 frames
-	if frame_count >= 40:
+	# Actualizar el puntaje cada 80 frames
+	if frame_count >= 100:
 		frame_count = 0  # Reiniciar el contador
 		score += 1
 		scoreLabel.text = "Puntaje: %d" % score
 		
 		# Verificar si el puntaje alcanza 30
-		if score > 10:
+		if score > 100:
 			change_to_final_scene()
 
 # Cambiar a la escena de finalización
