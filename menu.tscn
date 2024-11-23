@@ -52,7 +52,7 @@ grow_horizontal = 2
 theme_override_colors/font_color = Color(1, 1, 1, 1)
 theme_override_fonts/font = SubResource("SystemFont_qappy")
 theme_override_font_sizes/font_size = 60
-text = "Bienvenido a 'Zpn Centro'"
+text = "Bienvenido a 'Zapopan Centro'"
 
 [node name="Label2" type="Label" parent="."]
 layout_mode = 1
