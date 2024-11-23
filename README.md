@@ -1,3 +1,6 @@
+# Description
+A continuación, se presenta el videojuego llamado 'Zpn Centro', el cual es una representación realizada por computadora de esta zona; la cuál a través de un recorrido dinámico en 3D te va mostrando el cómo es la infraestructura del lugar, así como datos interesantes de la misma. Debido a que existe un gran desinterés por parte de la comunidad jalisciense en conocer esta zona, esta suele pasar desapercibida ya que se suele dar más importancia a otros lugares como el centro de Guadalajara o el de Tlaquepaque. Teniendo esto en cuenta, el videojuego busca resaltar el valor y la importancia que merece Zapopan Centro. Por medio de una experiencia interactiva, el usuario tiene la oportunidad de explorar esta zona, descubriendo su infraestructura, historia y aspectos únicos que muchas veces pasan inadvertidos.
+
 # quality-godot-first-person-2
 Actually good first person controller for the Godot Engine.  
 MIT License (credit Colormatic Studios)
